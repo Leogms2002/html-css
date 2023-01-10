@@ -1,0 +1,51 @@
+<h1> = titulo da pagina
+Hierarquia (h1 até h6)
+<p> = paragrafo
+<hr> = linha horizontal ->->->->-> (não tem fechamento de tag)
+<br> = quebra de linha (não tem fechamento de tag)
+&#x + codigo = emoji
+<img> = carrega imagem (não tem fechamento de tag) / Ctrl+espaço = aparecer 
+imagem automaticamente
+<link> -> favicon = Icone da pagina = tranformar imagem em ICO, por link no head
+<adress> endereço
+<strong> Em negrito (forma semantica)
+<em> Em italico (forma semantica)
+Ctrl + shift + i = com o (abb) colocar alguma tag em palavras selecionadas
+<del> palavra riscada
+<ins> palavra sublinhada
+<sup> texto sobrescrito (caracter em cima)
+<sub> texto subscrito (caracter em baixo)
+<code> = ler codigos de linguagens corretamente
+<pre> = shift + tab = colocar o codigo pra tras
+<q> = para citações ("")
+<blackquote> = tambem citações, mas deixam elas deslocadas
+<abbr tittle""> dar signicados a uma palavra 
+<ol type="1,A,a,I,i" star=" Qual posição começa(só funciona com numeros) "> = listas ordenadas
+<li> = ordem dos itens da lisata
+<ul> = listas não ordenadas
+
+<ol>
+   <li></li>
+   <ol>
+                = cria lista dentro de uma lista
+   </ol>
+   <li></li>
+</ol>
+
+segurar o alt = clicar varias vezes
+<dl> = lista de definição
+<dt> = definição
+<dd> = descrição
+<a href="" (target="_blank" rel="external, next e prev"(abrir o link em uma nova aba)) > = link
+rel="nofollow"
+target="_self"
+../ = voltar uma pasta
+
+
+
+
+
+
+
+
+

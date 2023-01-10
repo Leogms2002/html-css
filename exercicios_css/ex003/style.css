@@ -1,0 +1,18 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'stonpa';
+    src: url('Storm Gust.otf') format('opentype'), url('Storm Gust.ttf') format('truetype');
+    
+
+} 
+
+h1 {
+    font: normal 32px 'stonpa';
+    text-align: center;
+}
+
+p{
+    text-indent: 20px;
+    text-align: justify;
+    
+}
